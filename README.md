@@ -1,4 +1,5 @@
 # vue-devtools
+<<<<<<< HEAD
 
 <p align="center"><img width="720px" src="https://raw.githubusercontent.com/vuejs/vue-devtools/dev/media/screenshot-shadow.png" alt="screenshot"></p>
 
@@ -91,3 +92,6 @@ Vue.config.devtools = process.env.NODE_ENV === 'development'
 ### License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+Browser devtools extension for debugging Vue.js applications
+>>>>>>> 7230d5a6755adf42e70579769b6465bd820bb3f1
